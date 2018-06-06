@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2400537971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f06c1a8102203c744508944022d6254d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 92cee873137980c3d5ff7e1411ec2c9c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resource/Scene1/Buildings/Building2.prefab
+- Assets/Resource/Scene1/Buildings/Building1.prefab
+Dependencies:
+- "F:/Unity\u9879\u76EE/AssetBundlesDemo/Assets/StreamingAssets/Windows/scene3.assetbundle"
